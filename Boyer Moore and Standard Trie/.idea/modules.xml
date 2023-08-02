@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boyer_Moore/Boyer_Moore.iml" filepath="$PROJECT_DIR$/Boyer_Moore/Boyer_Moore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StandardTrie/StandardTrie.iml" filepath="$PROJECT_DIR$/StandardTrie/StandardTrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment5DataStructures.iml" filepath="$PROJECT_DIR$/assignment5DataStructures.iml" />
+    </modules>
+  </component>
+</project>
